@@ -1,978 +1,428 @@
 #EXTM3U
-#EXTINF:-1,UK: B4U Music
-http://izgemma.ddns.net:8000/live/office/test/1779.ts
-#EXTINF:-1,UK: B4U Movie
-http://izgemma.ddns.net:8000/live/office/test/1780.ts
-#EXTINF:-1,UK: B4U PLUS
-http://izgemma.ddns.net:8000/live/office/test/8920.ts
-#EXTINF:-1,UK: Star Plus.
-http://izgemma.ddns.net:8000/live/office/test/1765.ts
-#EXTINF:-1,UK: Star Plus HD
-http://izgemma.ddns.net:8000/live/office/test/726.ts
-#EXTINF:-1,UK: Star Plus (Backup)
-http://izgemma.ddns.net:8000/live/office/test/14090.ts
-#EXTINF:-1,UK: Star Gold
-http://izgemma.ddns.net:8000/live/office/test/6285.ts
-#EXTINF:-1,UK: Star Life OK.
-http://izgemma.ddns.net:8000/live/office/test/1778.ts
-#EXTINF:-1,UK: Zee Cinema.
-http://izgemma.ddns.net:8000/live/office/test/1771.ts
-#EXTINF:-1,UK: Zee TV HD
-http://izgemma.ddns.net:8000/live/office/test/1770.ts
-#EXTINF:-1,UK: Zee News..
-http://izgemma.ddns.net:8000/live/office/test/1862.ts
-#EXTINF:-1,UK: Colours (Backup)
-http://izgemma.ddns.net:8000/live/office/test/14080.ts
-#EXTINF:-1,UK: Colors HD
-http://izgemma.ddns.net:8000/live/office/test/1767.ts
-#EXTINF:-1,UK: Sony Max.
-http://izgemma.ddns.net:8000/live/office/test/1773.ts
-#EXTINF:-1,UK: Sony TV Asian
-http://izgemma.ddns.net:8000/live/office/test/1772.ts
-#EXTINF:-1,UK: Sony Sab.
-http://izgemma.ddns.net:8000/live/office/test/1776.ts
-#EXTINF:-1,UK: Discovery Channel HD
-http://izgemma.ddns.net:8000/live/office/test/608.ts
-#EXTINF:-1,UK: Animal Planet HD
-http://izgemma.ddns.net:8000/live/office/test/128.ts
-#EXTINF:-1,UK: Discovery Science
-http://izgemma.ddns.net:8000/live/office/test/105.ts
-#EXTINF:-1,UK: Discovery Turbo
-http://izgemma.ddns.net:8000/live/office/test/107.ts
-#EXTINF:-1,UK: National-Geo Wild HD
-http://izgemma.ddns.net:8000/live/office/test/2986.ts
-#EXTINF:-1,UK: BBC One HD
-http://izgemma.ddns.net:8000/live/office/test/13688.ts
-#EXTINF:-1,UK: Discovery History
-http://izgemma.ddns.net:8000/live/office/test/106.ts
-#EXTINF:-1,UK: BBC Two HD
-http://izgemma.ddns.net:8000/live/office/test/120.ts
-#EXTINF:-1,UK: ITV 1 Granada
-http://izgemma.ddns.net:8000/live/office/test/1874.ts
-#EXTINF:-1,UK: ITV 1 HD.
-http://izgemma.ddns.net:8000/live/office/test/13657.ts
-#EXTINF:-1,UK: Channel 5 HD
-http://izgemma.ddns.net:8000/live/office/test/1155.ts
-#EXTINF:-1,UK: Channel 4 HD
-http://izgemma.ddns.net:8000/live/office/test/3.ts
-#EXTINF:-1,UK: Sky One HD
-http://izgemma.ddns.net:8000/live/office/test/698.ts
-#EXTINF:-1,UK: Sky One (Backup)
-http://izgemma.ddns.net:8000/live/office/test/14078.ts
-#EXTINF:-1,UK: Sky Living HD
-http://izgemma.ddns.net:8000/live/office/test/2706.ts
-#EXTINF:-1,UK: Sky Living
-http://izgemma.ddns.net:8000/live/office/test/78.ts
-#EXTINF:-1,UK: Gold
-http://izgemma.ddns.net:8000/live/office/test/629.ts
-#EXTINF:-1,UK: Universal HD
-http://izgemma.ddns.net:8000/live/office/test/1751.ts
-#EXTINF:-1,UK: Dave
-http://izgemma.ddns.net:8000/live/office/test/1410.ts
-#EXTINF:-1,UK: Syfy
-http://izgemma.ddns.net:8000/live/office/test/1233.ts
-#EXTINF:-1,UK: BBC 4 HD
-http://izgemma.ddns.net:8000/live/office/test/1757.ts
-#EXTINF:-1,UK: BBC One London
-http://izgemma.ddns.net:8000/live/office/test/821.ts
-#EXTINF:-1,UK: ITV 3
-http://izgemma.ddns.net:8000/live/office/test/100.ts
-#EXTINF:-1,UK: ITV 2 HD
-http://izgemma.ddns.net:8000/live/office/test/13715.ts
-#EXTINF:-1,UK: Sky Arts
-http://izgemma.ddns.net:8000/live/office/test/1752.ts
-#EXTINF:-1,UK: Comedy Central Extra
-http://izgemma.ddns.net:8000/live/office/test/1746.ts
-#EXTINF:-1,UK: TLC
-http://izgemma.ddns.net:8000/live/office/test/1396.ts
-#EXTINF:-1,UK: MTV
-http://izgemma.ddns.net:8000/live/office/test/1754.ts
-#EXTINF:-1,UK: Sky 2
-http://izgemma.ddns.net:8000/live/office/test/696.ts
-#EXTINF:-1,UK: More4
-http://izgemma.ddns.net:8000/live/office/test/1157.ts
-#EXTINF:-1,UK: E4
-http://izgemma.ddns.net:8000/live/office/test/1414.ts
-#EXTINF:-1,UK: CBS Drama
-http://izgemma.ddns.net:8000/live/office/test/113.ts
-#EXTINF:-1,UK: CBS Reality
-http://izgemma.ddns.net:8000/live/office/test/814.ts
-#EXTINF:-1,UK: UTV Ireland
-http://izgemma.ddns.net:8000/live/office/test/6038.ts
-#EXTINF:-1,UK: Spike
-http://izgemma.ddns.net:8000/live/office/test/1246.ts
-#EXTINF:-1,UK: Sony Channel
-http://izgemma.ddns.net:8000/live/office/test/1764.ts
-#EXTINF:-1,UK: ITV Be HD
-http://izgemma.ddns.net:8000/live/office/test/1397.ts
-#EXTINF:-1,UK: Food Network
-http://izgemma.ddns.net:8000/live/office/test/1394.ts
-#EXTINF:-1,UK: DMAX
-http://izgemma.ddns.net:8000/live/office/test/1399.ts
-#EXTINF:-1,UK: Samaa
-http://izgemma.ddns.net:8000/live/office/test/2941.ts
-#EXTINF:-1,UK: RTE 2 HD
-http://izgemma.ddns.net:8000/live/office/test/84.ts
-#EXTINF:-1,UK: RTE 1 HD
-http://izgemma.ddns.net:8000/live/office/test/83.ts
-#EXTINF:-1,UK: 3e.
-http://izgemma.ddns.net:8000/live/office/test/3406.ts
-#EXTINF:-1,UK: Sky Cinema Action
-http://izgemma.ddns.net:8000/live/office/test/6229.ts
-#EXTINF:-1,UK: Sky Cinema Premiere HD
-http://izgemma.ddns.net:8000/live/office/test/67.ts
-#EXTINF:-1,UK: Sky Cinema Comedy
-http://izgemma.ddns.net:8000/live/office/test/73.ts
-#EXTINF:-1,UK: Sky Cinema Comedy HD
-http://izgemma.ddns.net:8000/live/office/test/7836.ts
-#EXTINF:-1,UK: Sky Cinema Family
-http://izgemma.ddns.net:8000/live/office/test/70.ts
-#EXTINF:-1,UK: Sky Cinema Family HD
-http://izgemma.ddns.net:8000/live/office/test/6225.ts
-#EXTINF:-1,UK: Sky Cinema Select
-http://izgemma.ddns.net:8000/live/office/test/65.ts
-#EXTINF:-1,UK: Sky Cinema Select HD
-http://izgemma.ddns.net:8000/live/office/test/6221.ts
-#EXTINF:-1,UK: Sky Cinema Drama
-http://izgemma.ddns.net:8000/live/office/test/71.ts
-#EXTINF:-1,UK: Sky Cinema Thriller
-http://izgemma.ddns.net:8000/live/office/test/76.ts
-#EXTINF:-1,UK: Sky Cinema Thriller HD
-http://izgemma.ddns.net:8000/live/office/test/6223.ts
-#EXTINF:-1,UK: Sky Cinema Modern Greats
-http://izgemma.ddns.net:8000/live/office/test/69.ts
-#EXTINF:-1,UK: Sky Cinema ScFi-Horror
-http://izgemma.ddns.net:8000/live/office/test/66.ts
-#EXTINF:-1,UK: TCM HD
-http://izgemma.ddns.net:8000/live/office/test/1248.ts
-#EXTINF:-1,UK: Film 4
-http://izgemma.ddns.net:8000/live/office/test/102.ts
-#EXTINF:-1,UK: Movie 4 Men
-http://izgemma.ddns.net:8000/live/office/test/1259.ts
-#EXTINF:-1,UK: True Movies 1
-http://izgemma.ddns.net:8000/live/office/test/25.ts
-#EXTINF:-1,UK: MTV Dance
-http://izgemma.ddns.net:8000/live/office/test/1441.ts
-#EXTINF:-1,UK: MTV Base
-http://izgemma.ddns.net:8000/live/office/test/1440.ts
-#EXTINF:-1,UK: MTV Hits
-http://izgemma.ddns.net:8000/live/office/test/92.ts
-#EXTINF:-1,UK: Virgin Radio TV
-http://izgemma.ddns.net:8000/live/office/test/1158.ts
-#EXTINF:-1,UK: Sky Sports Main Event (Backup)
-http://izgemma.ddns.net:8000/live/office/test/1121.ts
-#EXTINF:-1,UK: Sky Sports Main Event HD
-http://izgemma.ddns.net:8000/live/office/test/6672.ts
-#EXTINF:-1,UK: Sky Sports Premier League (Backup)
-http://izgemma.ddns.net:8000/live/office/test/44.ts
-#EXTINF:-1,UK: Sky Sports Premier League HD
-http://izgemma.ddns.net:8000/live/office/test/38.ts
-#EXTINF:-1,UK: Sky Sports Football HD
-http://izgemma.ddns.net:8000/live/office/test/12450.ts
-#EXTINF:-1,UK: Sky Sports Cricket (Backup)
-http://izgemma.ddns.net:8000/live/office/test/1122.ts
-#EXTINF:-1,UK: Sky Sports Cricket HD
-http://izgemma.ddns.net:8000/live/office/test/6669.ts
-#EXTINF:-1,UK: Sky Sports Golf HD
-http://izgemma.ddns.net:8000/live/office/test/13181.ts
-#EXTINF:-1,UK: Sky Sports F1 (Backup)
-http://izgemma.ddns.net:8000/live/office/test/1416.ts
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://izgemma.ddns.net:8000/live/office/test/5.ts
-#EXTINF:-1,UK: Sky Sports Action (Backup)
-http://izgemma.ddns.net:8000/live/office/test/1123.ts
-#EXTINF:-1,UK: Sky Sports Action HD
-http://izgemma.ddns.net:8000/live/office/test/6670.ts
-#EXTINF:-1,UK: Sky Sports News SD
-http://izgemma.ddns.net:8000/live/office/test/20.ts
-#EXTINF:-1,UK: Sky Sports News HQ
-http://izgemma.ddns.net:8000/live/office/test/6668.ts
-#EXTINF:-1,UK: Sky Sports Mix HD
-http://izgemma.ddns.net:8000/live/office/test/6461.ts
-#EXTINF:-1,UK: BT Sport 1 (backup)
-http://izgemma.ddns.net:8000/live/office/test/56.ts
-#EXTINF:-1,UK: BT Sport 1 HD
-http://izgemma.ddns.net:8000/live/office/test/1389.ts
-#EXTINF:-1,UK: BT Sport 2 (backup)
-http://izgemma.ddns.net:8000/live/office/test/1124.ts
-#EXTINF:-1,UK: BT Sport 2 HD
-http://izgemma.ddns.net:8000/live/office/test/6667.ts
-#EXTINF:-1,UK: BT Sport 3 SD
-http://izgemma.ddns.net:8000/live/office/test/815.ts
-#EXTINF:-1,UK: BT Sport 3 HD
-http://izgemma.ddns.net:8000/live/office/test/6671.ts
-#EXTINF:-1,UK: BT Sport ESPN..
-http://izgemma.ddns.net:8000/live/office/test/129.ts
-#EXTINF:-1,UK: Eurosport 2
-http://izgemma.ddns.net:8000/live/office/test/798.ts
-#EXTINF:-1,UK: Eurosport 1 HD
-http://izgemma.ddns.net:8000/live/office/test/799.ts
-#EXTINF:-1,UK: Premiere Sport HD
-http://izgemma.ddns.net:8000/live/office/test/45.ts
-#EXTINF:-1,UK: Chelsea TV
-http://izgemma.ddns.net:8000/live/office/test/23.ts
-#EXTINF:-1,UK: Liverpool FC
-http://izgemma.ddns.net:8000/live/office/test/716.ts
-#EXTINF:-1,UK: Motors Tv
-http://izgemma.ddns.net:8000/live/office/test/61.ts
-#EXTINF:-1,UK: At The Races
-http://izgemma.ddns.net:8000/live/office/test/60.ts
-#EXTINF:-1,UK: BoxNation.
-http://izgemma.ddns.net:8000/live/office/test/96.ts
-#EXTINF:-1,UK: Racing UK HD
-http://izgemma.ddns.net:8000/live/office/test/1417.ts
-#EXTINF:-1,UK: Dunya News.
-http://izgemma.ddns.net:8000/live/office/test/2981.ts
-#EXTINF:-1,UK: Sky News HD
-http://izgemma.ddns.net:8000/live/office/test/63.ts
-#EXTINF:-1,UK: NHK World News HD
-http://izgemma.ddns.net:8000/live/office/test/89.ts
-#EXTINF:-1,UK: FOX News
-http://izgemma.ddns.net:8000/live/office/test/614.ts
-#EXTINF:-1,UK: Bloomberg.
-http://izgemma.ddns.net:8000/live/office/test/1865.ts
-#EXTINF:-1,UK: BBC News.
-http://izgemma.ddns.net:8000/live/office/test/123.ts
-#EXTINF:-1,UK: BBC News HD
-http://izgemma.ddns.net:8000/live/office/test/1384.ts
-#EXTINF:-1,UK: BBC World News.
-http://izgemma.ddns.net:8000/live/office/test/124.ts
-#EXTINF:-1,UK: H2.
-http://izgemma.ddns.net:8000/live/office/test/3494.ts
-#EXTINF:-1,UK: History
-http://izgemma.ddns.net:8000/live/office/test/1370.ts
-#EXTINF:-1,UK: Nat Geographic
-http://izgemma.ddns.net:8000/live/office/test/91.ts
-#EXTINF:-1,UK: Crime & Investigation
-http://izgemma.ddns.net:8000/live/office/test/109.ts
-#EXTINF:-1,UK: Nick Jr.
-http://izgemma.ddns.net:8000/live/office/test/86.ts
-#EXTINF:-1,UK: Disney XD HD
-http://izgemma.ddns.net:8000/live/office/test/2704.ts
-#EXTINF:-1,UK: Disney Channel
-http://izgemma.ddns.net:8000/live/office/test/804.ts
-#EXTINF:-1,UK: Boomerang
-http://izgemma.ddns.net:8000/live/office/test/115.ts
-#EXTINF:-1,UK: Cbeebies
-http://izgemma.ddns.net:8000/live/office/test/116.ts
-#EXTINF:-1,UK: Cartoon Network HD
-http://izgemma.ddns.net:8000/live/office/test/118.ts
-#EXTINF:-1,UK: Disney junior
-http://izgemma.ddns.net:8000/live/office/test/103.ts
-#EXTINF:-1,UK: Nickelodeon
-http://izgemma.ddns.net:8000/live/office/test/87.ts
-#EXTINF:-1,UK: Nick HD
-http://izgemma.ddns.net:8000/live/office/test/88.ts
-#EXTINF:-1,UK: Nicktoons
-http://izgemma.ddns.net:8000/live/office/test/85.ts
-#EXTINF:-1,UK: And TV
-http://izgemma.ddns.net:8000/live/office/test/272.ts
-#EXTINF:-1,UK: CNN
-http://izgemma.ddns.net:8000/live/office/test/1750.ts
-#EXTINF:-1,UK: Islam Channel
-http://izgemma.ddns.net:8000/live/office/test/8074.ts
-#EXTINF:-1,UK: Geo Tez.
-http://izgemma.ddns.net:8000/live/office/test/2985.ts
-#EXTINF:-1,UK: GEO News
-http://izgemma.ddns.net:8000/live/office/test/8071.ts
-#EXTINF:-1,UK: Geo TV.
-http://izgemma.ddns.net:8000/live/office/test/2979.ts
-#EXTINF:-1,UK: Urdu1 Europe
-http://izgemma.ddns.net:8000/live/office/test/8072.ts
-#EXTINF:-1,UK: Horror Channel
-http://izgemma.ddns.net:8000/live/office/test/1253.ts
-#EXTINF:-1,UK: Hum Europe.
-http://izgemma.ddns.net:8000/live/office/test/2982.ts
-#EXTINF:-1,UK: Samaa.
-http://izgemma.ddns.net:8000/live/office/test/2980.ts
-#EXTINF:-1,UK: Rishtey.
-http://izgemma.ddns.net:8000/live/office/test/1777.ts
-#EXTINF:-1,UK: Brit Asia TV
-http://izgemma.ddns.net:8000/live/office/test/2949.ts
-#EXTINF:-1,UK: AAJ Tak
-http://izgemma.ddns.net:8000/live/office/test/2984.ts
-#EXTINF:-1,UK: Zee Alwan
-http://izgemma.ddns.net:8000/live/office/test/6244.ts
-#EXTINF:-1,UK: Zing.
-http://izgemma.ddns.net:8000/live/office/test/1859.ts
-#EXTINF:-1,UK: Horse & Country
-http://izgemma.ddns.net:8000/live/office/test/6241.ts
-#EXTINF:-1,UK: Lebanon
-http://izgemma.ddns.net:8000/live/office/test/6277.ts
-#EXTINF:-1,UK: MTV HD
-http://izgemma.ddns.net:8000/live/office/test/21295.ts
-#EXTINF:-1,UK: Aastha
-http://izgemma.ddns.net:8000/live/office/test/7856.ts
-#EXTINF:-1,UK@ Star Plus.
-http://izgemma.ddns.net:8000/live/office/test/11301.ts
-#EXTINF:-1,UK@ Star Plus HD.
-http://izgemma.ddns.net:8000/live/office/test/31969.ts
-#EXTINF:-1,UK@ Star Life OK
-http://izgemma.ddns.net:8000/live/office/test/11300.ts
-#EXTINF:-1,UK@ Star Bharat.
-http://izgemma.ddns.net:8000/live/office/test/22412.ts
-#EXTINF:-1,UK@ Star Gold (Backup)
-http://izgemma.ddns.net:8000/live/office/test/29501.ts
-#EXTINF:-1,UK@ Star Gold HD
-http://izgemma.ddns.net:8000/live/office/test/11321.ts
-#EXTINF:-1,UK@ Colors
-http://izgemma.ddns.net:8000/live/office/test/14143.ts
-#EXTINF:-1,UK@ Colors HD
-http://izgemma.ddns.net:8000/live/office/test/11290.ts
-#EXTINF:-1,UK@ Colors (Backup)
-http://izgemma.ddns.net:8000/live/office/test/14139.ts
-#EXTINF:-1,UK@ Rishtey Cine Plex.
-http://izgemma.ddns.net:8000/live/office/test/3603.ts
-#EXTINF:-1,UK@ Rishtey
-http://izgemma.ddns.net:8000/live/office/test/11298.ts
-#EXTINF:-1,UK@ Zee Tv (Backup)
-http://izgemma.ddns.net:8000/live/office/test/21845.ts
-#EXTINF:-1,UK@ Zee TV
-http://izgemma.ddns.net:8000/live/office/test/11312.ts
-#EXTINF:-1,IN@ Zee Talkies..
-http://izgemma.ddns.net:8000/live/office/test/1860.ts
-#EXTINF:-1,IN@ Zee Classic
-http://izgemma.ddns.net:8000/live/office/test/31255.ts
-#EXTINF:-1,UK@ Zee Punjabi
-http://izgemma.ddns.net:8000/live/office/test/21871.ts
-#EXTINF:-1,UK@ Zee Cinema HD
-http://izgemma.ddns.net:8000/live/office/test/11310.ts
-#EXTINF:-1,IN@ Zee Action
-http://izgemma.ddns.net:8000/live/office/test/11309.ts
-#EXTINF:-1,IN@ Zee Ammol
-http://izgemma.ddns.net:8000/live/office/test/11311.ts
-#EXTINF:-1,UK@ Zee News
-http://izgemma.ddns.net:8000/live/office/test/15147.ts
-#EXTINF:-1,IN@ Zee ETC
-http://izgemma.ddns.net:8000/live/office/test/31256.ts
-#EXTINF:-1,UK@ B4U MUSIC (Backup)
-http://izgemma.ddns.net:8000/live/office/test/29505.ts
-#EXTINF:-1,UK@ B4U Music
-http://izgemma.ddns.net:8000/live/office/test/11307.ts
-#EXTINF:-1,UK@ B4U Movies
-http://izgemma.ddns.net:8000/live/office/test/283.ts
-#EXTINF:-1,IN@ B4U Plus
-http://izgemma.ddns.net:8000/live/office/test/11323.ts
-#EXTINF:-1,UK@ Sony Mix
-http://izgemma.ddns.net:8000/live/office/test/21869.ts
-#EXTINF:-1,UK@ Sony TV HD
-http://izgemma.ddns.net:8000/live/office/test/11308.ts
-#EXTINF:-1,UK@ Sony Max HD
-http://izgemma.ddns.net:8000/live/office/test/11907.ts
-#EXTINF:-1,UK@ Sony Sab
-http://izgemma.ddns.net:8000/live/office/test/11302.ts
-#EXTINF:-1,UK@ Sikh Channel
-http://izgemma.ddns.net:8000/live/office/test/11862.ts
-#EXTINF:-1,UK@ And TV
-http://izgemma.ddns.net:8000/live/office/test/11291.ts
-#EXTINF:-1,UK@ Aastha
-http://izgemma.ddns.net:8000/live/office/test/11322.ts
-#EXTINF:-1,UK@ Akaal Channel
-http://izgemma.ddns.net:8000/live/office/test/11887.ts
-#EXTINF:-1,UK@ Sangat
-http://izgemma.ddns.net:8000/live/office/test/11743.ts
-#EXTINF:-1,UK@ PTC Punjabi
-http://izgemma.ddns.net:8000/live/office/test/11737.ts
-#EXTINF:-1,UK@ Brit Asia TV
-http://izgemma.ddns.net:8000/live/office/test/11306.ts
-#EXTINF:-1,UK@ ABP News
-http://izgemma.ddns.net:8000/live/office/test/11369.ts
-#EXTINF:-1,UK@ Venus TV..
-http://izgemma.ddns.net:8000/live/office/test/11757.ts
-#EXTINF:-1,UK@ Times Now
-http://izgemma.ddns.net:8000/live/office/test/11899.ts
-#EXTINF:-1,UK@ Star Plus HD
-http://izgemma.ddns.net:8000/live/office/test/11286.ts
-#EXTINF:-1,UK@ NDTV 24x7
-http://izgemma.ddns.net:8000/live/office/test/13469.ts
-#EXTINF:-1,UK@ UK92 News
-http://izgemma.ddns.net:8000/live/office/test/11359.ts
-#EXTINF:-1,UK@ Ary Family
-http://izgemma.ddns.net:8000/live/office/test/24462.ts
-#EXTINF:-1,UK@ Geo News
-http://izgemma.ddns.net:8000/live/office/test/11293.ts
-#EXTINF:-1,UK@ New Vision TV
-http://izgemma.ddns.net:8000/live/office/test/11749.ts
-#EXTINF:-1,UK@ Channel 44
-http://izgemma.ddns.net:8000/live/office/test/12595.ts
-#EXTINF:-1,UK@ Samaa
-http://izgemma.ddns.net:8000/live/office/test/11287.ts
-#EXTINF:-1,UK@ Dunya News (Backup)
-http://izgemma.ddns.net:8000/live/office/test/21756.ts
-#EXTINF:-1,UK@ Dunya News
-http://izgemma.ddns.net:8000/live/office/test/11288.ts
-#EXTINF:-1,PK@ Ary News
-http://izgemma.ddns.net:8000/live/office/test/14123.ts
-#EXTINF:-1,PK@ News One
-http://izgemma.ddns.net:8000/live/office/test/14122.ts
-#EXTINF:-1,UK@ PTV Prime
-http://izgemma.ddns.net:8000/live/office/test/11880.ts
-#EXTINF:-1,UK@ PTV Global
-http://izgemma.ddns.net:8000/live/office/test/11756.ts
-#EXTINF:-1,UK@ Hum Masala
-http://izgemma.ddns.net:8000/live/office/test/14127.ts
-#EXTINF:-1,UK@ Hum Europe
-http://izgemma.ddns.net:8000/live/office/test/11297.ts
-#EXTINF:-1,UK@  Hum World
-http://izgemma.ddns.net:8000/live/office/test/21855.ts
-#EXTINF:-1,UK@ Geo TV
-http://izgemma.ddns.net:8000/live/office/test/11295.ts
-#EXTINF:-1,UK@ Geo Kahani
-http://izgemma.ddns.net:8000/live/office/test/11294.ts
-#EXTINF:-1,SU: Saudi Makkah
-http://izgemma.ddns.net:8000/live/office/test/37300.ts
-#EXTINF:-1,UK@ Aplus TV
-http://izgemma.ddns.net:8000/live/office/test/11357.ts
-#EXTINF:-1,UK@ Islam Channel
-http://izgemma.ddns.net:8000/live/office/test/11292.ts
-#EXTINF:-1,UK@ PeaceTV Urdu
-http://izgemma.ddns.net:8000/live/office/test/11879.ts
-#EXTINF:-1,UK@ Peace TV English
-http://izgemma.ddns.net:8000/live/office/test/14128.ts
-#EXTINF:-1,UK@ Noor TV
-http://izgemma.ddns.net:8000/live/office/test/11740.ts
-#EXTINF:-1,UK@ Iqra  TV
-http://izgemma.ddns.net:8000/live/office/test/12582.ts
-#EXTINF:-1,UK@ Eman Channel
-http://izgemma.ddns.net:8000/live/office/test/11745.ts
-#EXTINF:-1,UK@ Madani Channel
-http://izgemma.ddns.net:8000/live/office/test/11777.ts
-#EXTINF:-1,UK@ British Muslim
-http://izgemma.ddns.net:8000/live/office/test/11910.ts
-#EXTINF:-1,UK@ mta-muslim tv
-http://izgemma.ddns.net:8000/live/office/test/11902.ts
-#EXTINF:-1,UK@ Hidayat TV
-http://izgemma.ddns.net:8000/live/office/test/11758.ts
-#EXTINF:-1,PK@ ARY Digital
-http://izgemma.ddns.net:8000/live/office/test/37302.ts
-#EXTINF:-1,PK@ PTV Sports
-http://izgemma.ddns.net:8000/live/office/test/37301.ts
-#EXTINF:-1,PK@ Channel 24 HD
-http://izgemma.ddns.net:8000/live/office/test/37303.ts
-#EXTINF:-1,PK@ Express News
-http://izgemma.ddns.net:8000/live/office/test/37304.ts
-#EXTINF:-1,PK@ Ary Zaika
-http://izgemma.ddns.net:8000/live/office/test/21753.ts
-#EXTINF:-1,PK@ Ary QTV
-http://izgemma.ddns.net:8000/live/office/test/21752.ts
-#EXTINF:-1,PK@ Ary Musik
-http://izgemma.ddns.net:8000/live/office/test/21754.ts
-#EXTINF:-1,PK@ Capital News
-http://izgemma.ddns.net:8000/live/office/test/21755.ts
-#EXTINF:-1,Star Media Top Gear
-http://izgemma.ddns.net:8000/live/office/test/17966.ts
-#EXTINF:-1,Star Media Family Guy
-http://izgemma.ddns.net:8000/live/office/test/22812.ts
-#EXTINF:-1,UK@ BBC ONE HD London
-http://izgemma.ddns.net:8000/live/office/test/31970.ts
-#EXTINF:-1,UK@ BBC Entertainment
-http://izgemma.ddns.net:8000/live/office/test/32935.ts
-#EXTINF:-1,UK@ BBC ONE West Midlands
-http://izgemma.ddns.net:8000/live/office/test/37460.ts
-#EXTINF:-1,UK@ BBC ONE (Backup)
-http://izgemma.ddns.net:8000/live/office/test/36497.ts
-#EXTINF:-1,UK@ BBC Two (Backup)
-http://izgemma.ddns.net:8000/live/office/test/27023.ts
-#EXTINF:-1,UK@ BBC Two HD
-http://izgemma.ddns.net:8000/live/office/test/31971.ts
-#EXTINF:-1,UK@ ITV Central HD
-http://izgemma.ddns.net:8000/live/office/test/35123.ts
-#EXTINF:-1,UK@ ITV HD
-http://izgemma.ddns.net:8000/live/office/test/26573.ts
-#EXTINF:-1,UK@ ITV Granada HD
-http://izgemma.ddns.net:8000/live/office/test/36958.ts
-#EXTINF:-1,UK@ Channel 4 (Backup)
-http://izgemma.ddns.net:8000/live/office/test/37413.ts
-#EXTINF:-1,UK@ Channel 4 HD
-http://izgemma.ddns.net:8000/live/office/test/33270.ts
-#EXTINF:-1,UK@ Channel 5 (Backup)
-http://izgemma.ddns.net:8000/live/office/test/29192.ts
-#EXTINF:-1,UK@ Channel 5 HD
-http://izgemma.ddns.net:8000/live/office/test/31973.ts
-#EXTINF:-1,UK@ Sky One HD
-http://izgemma.ddns.net:8000/live/office/test/11349.ts
-#EXTINF:-1,UK@ Sky 1 (Backup)
-http://izgemma.ddns.net:8000/live/office/test/27675.ts
-#EXTINF:-1,UK@ Sky Living (Backup)
-http://izgemma.ddns.net:8000/live/office/test/37337.ts
-#EXTINF:-1,UK@ Sky Living HD
-http://izgemma.ddns.net:8000/live/office/test/8143.ts
-#EXTINF:-1,UK@ Fine Living
-http://izgemma.ddns.net:8000/live/office/test/37338.ts
-#EXTINF:-1,UK@ Sky Atlantic (Backup)
-http://izgemma.ddns.net:8000/live/office/test/27098.ts
-#EXTINF:-1,UK@ Sky Atlantic HD
-http://izgemma.ddns.net:8000/live/office/test/8144.ts
-#EXTINF:-1,UK@ W HD.
-http://izgemma.ddns.net:8000/live/office/test/8145.ts
-#EXTINF:-1,UK@ Gold (Backup)
-http://izgemma.ddns.net:8000/live/office/test/27674.ts
-#EXTINF:-1,UK@ Gold
-http://izgemma.ddns.net:8000/live/office/test/36517.ts
-#EXTINF:-1,UK@ Dave (Backup)
-http://izgemma.ddns.net:8000/live/office/test/37383.ts
-#EXTINF:-1,UK@ Dave HD
-http://izgemma.ddns.net:8000/live/office/test/31974.ts
-#EXTINF:-1,UK@ Comedy Central HD
-http://izgemma.ddns.net:8000/live/office/test/8148.ts
-#EXTINF:-1,UK@ MTV  (Backup)
-http://izgemma.ddns.net:8000/live/office/test/27679.ts
-#EXTINF:-1,UK@ MTV HD
-http://izgemma.ddns.net:8000/live/office/test/8161.ts
-#EXTINF:-1,UK@ Comedy Central (Backup)
-http://izgemma.ddns.net:8000/live/office/test/29483.ts
-#EXTINF:-1,UK@ Universal (Backup)
-http://izgemma.ddns.net:8000/live/office/test/29476.ts
-#EXTINF:-1,UK@ Universal HD
-http://izgemma.ddns.net:8000/live/office/test/37160.ts
-#EXTINF:-1,UK@ Alibi  (Backup)
-http://izgemma.ddns.net:8000/live/office/test/37384.ts
-#EXTINF:-1,UK@ Alibi HD
-http://izgemma.ddns.net:8000/live/office/test/37167.ts
-#EXTINF:-1,UK@ Syfy (Backup)
-http://izgemma.ddns.net:8000/live/office/test/37390.ts
-#EXTINF:-1,UK@ Syfy HD
-http://izgemma.ddns.net:8000/live/office/test/8150.ts
-#EXTINF:-1,UK@ ITV 2 (Backup)
-http://izgemma.ddns.net:8000/live/office/test/37340.ts
-#EXTINF:-1,UK@ ITV2 HD
-http://izgemma.ddns.net:8000/live/office/test/8153.ts
-#EXTINF:-1,UK@ ITV 3 HD
-http://izgemma.ddns.net:8000/live/office/test/37345.ts
-#EXTINF:-1,UK@ ITV3 HD
-http://izgemma.ddns.net:8000/live/office/test/8154.ts
-#EXTINF:-1,UK@ ITV 3 (backup)
-http://izgemma.ddns.net:8000/live/office/test/37341.ts
-#EXTINF:-1,UK@ ITV 4
-http://izgemma.ddns.net:8000/live/office/test/11346.ts
-#EXTINF:-1,UK@ ITV 4 HD
-http://izgemma.ddns.net:8000/live/office/test/8155.ts
-#EXTINF:-1,UK@ ITV 4 (Backup)
-http://izgemma.ddns.net:8000/live/office/test/37342.ts
-#EXTINF:-1,UK@ Sky Arts (Backup)
-http://izgemma.ddns.net:8000/live/office/test/37392.ts
-#EXTINF:-1,UK@ Sky Arts HD
-http://izgemma.ddns.net:8000/live/office/test/8156.ts
-#EXTINF:-1,UK@ ITV Be HD
-http://izgemma.ddns.net:8000/live/office/test/37412.ts
-#EXTINF:-1,UK@ FOX (Backup)
-http://izgemma.ddns.net:8000/live/office/test/37399.ts
-#EXTINF:-1,UK@ FOX HD
-http://izgemma.ddns.net:8000/live/office/test/19632.ts
-#EXTINF:-1,UK@ TLC (BaCKUP)
-http://izgemma.ddns.net:8000/live/office/test/37404.ts
-#EXTINF:-1,UK@ TLC HD
-http://izgemma.ddns.net:8000/live/office/test/8160.ts
-#EXTINF:-1,UK@ Good Food.
-http://izgemma.ddns.net:8000/live/office/test/8168.ts
-#EXTINF:-1,UK@ E4 HD
-http://izgemma.ddns.net:8000/live/office/test/27704.ts
-#EXTINF:-1,UK@ E4 HD.
-http://izgemma.ddns.net:8000/live/office/test/8170.ts
-#EXTINF:-1,UK@ BBC Four HD
-http://izgemma.ddns.net:8000/live/office/test/8152.ts
-#EXTINF:-1,UK@ Challenge
-http://izgemma.ddns.net:8000/live/office/test/21112.ts
-#EXTINF:-1,UK@ CBS Reality (Backup)
-http://izgemma.ddns.net:8000/live/office/test/29512.ts
-#EXTINF:-1,UK@ CBS Reality
-http://izgemma.ddns.net:8000/live/office/test/9004.ts
-#EXTINF:-1,UK@ CBS Action (Backup)
-http://izgemma.ddns.net:8000/live/office/test/29513.ts
-#EXTINF:-1,UK@ CBS Action
-http://izgemma.ddns.net:8000/live/office/test/9225.ts
-#EXTINF:-1,UK@ CBS Drama (Backup)
-http://izgemma.ddns.net:8000/live/office/test/29511.ts
-#EXTINF:-1,UK@ CBS Drama
-http://izgemma.ddns.net:8000/live/office/test/9226.ts
-#EXTINF:-1,UK@ 4 SEVEN HD
-http://izgemma.ddns.net:8000/live/office/test/37163.ts
-#EXTINF:-1,UK@ DMAX
-http://izgemma.ddns.net:8000/live/office/test/33890.ts
-#EXTINF:-1,UK@ EI HD
-http://izgemma.ddns.net:8000/live/office/test/9228.ts
-#EXTINF:-1,UK@ PicK tv (Backup)
-http://izgemma.ddns.net:8000/live/office/test/29514.ts
-#EXTINF:-1,UK@ PicK tv
-http://izgemma.ddns.net:8000/live/office/test/9229.ts
-#EXTINF:-1,UK@ Really
-http://izgemma.ddns.net:8000/live/office/test/9232.ts
-#EXTINF:-1,UK@ Really (Backup)
-http://izgemma.ddns.net:8000/live/office/test/37422.ts
-#EXTINF:-1,UK@ Lifetime HD
-http://izgemma.ddns.net:8000/live/office/test/9233.ts
-#EXTINF:-1,UK@ Sony Channel
-http://izgemma.ddns.net:8000/live/office/test/9234.ts
-#EXTINF:-1,UK@ 5 USA
-http://izgemma.ddns.net:8000/live/office/test/37156.ts
-#EXTINF:-1,UK@ Drama
-http://izgemma.ddns.net:8000/live/office/test/9235.ts
-#EXTINF:-1,UK@ 5Spike
-http://izgemma.ddns.net:8000/live/office/test/9237.ts
-#EXTINF:-1,UK@ 5 Spike (Backup)
-http://izgemma.ddns.net:8000/live/office/test/37420.ts
-#EXTINF:-1,UK@ Discovery Shed
-http://izgemma.ddns.net:8000/live/office/test/9238.ts
-#EXTINF:-1,UK@ Channel 5
-http://izgemma.ddns.net:8000/live/office/test/13475.ts
-#EXTINF:-1,UK@ Home & Health
-http://izgemma.ddns.net:8000/live/office/test/9470.ts
-#EXTINF:-1,UK@ Real Lives
-http://izgemma.ddns.net:8000/live/office/test/11342.ts
-#EXTINF:-1,UK@ Propeller TV
-http://izgemma.ddns.net:8000/live/office/test/10773.ts
-#EXTINF:-1,UK@  5 Star
-http://izgemma.ddns.net:8000/live/office/test/26961.ts
-#EXTINF:-1,UK@ AMC
-http://izgemma.ddns.net:8000/live/office/test/11339.ts
-#EXTINF:-1,UK@ Property Show
-http://izgemma.ddns.net:8000/live/office/test/11753.ts
-#EXTINF:-1,UK@ Home
-http://izgemma.ddns.net:8000/live/office/test/11338.ts
-#EXTINF:-1,UK@ My Channel
-http://izgemma.ddns.net:8000/live/office/test/11735.ts
-#EXTINF:-1,UK@ VOX Africa
-http://izgemma.ddns.net:8000/live/office/test/11793.ts
-#EXTINF:-1,UK@ Showcase
-http://izgemma.ddns.net:8000/live/office/test/11855.ts
-#EXTINF:-1,UK@ ABN TV
-http://izgemma.ddns.net:8000/live/office/test/11337.ts
-#EXTINF:-1,UK@ Food Network
-http://izgemma.ddns.net:8000/live/office/test/11335.ts
-#EXTINF:-1,UK@ TG4
-http://izgemma.ddns.net:8000/live/office/test/11331.ts
-#EXTINF:-1,UK@ RTE 2 HD
-http://izgemma.ddns.net:8000/live/office/test/11334.ts
-#EXTINF:-1,UK@ Ahlulbayt TV
-http://izgemma.ddns.net:8000/live/office/test/11373.ts
-#EXTINF:-1,UK@ Ahlebait TV
-http://izgemma.ddns.net:8000/live/office/test/11364.ts
-#EXTINF:-1,UK@ Ait International
-http://izgemma.ddns.net:8000/live/office/test/11884.ts
-#EXTINF:-1,UK@ Al Arabiya.
-http://izgemma.ddns.net:8000/live/office/test/12594.ts
-#EXTINF:-1,UK@ Al Arabiya News
-http://izgemma.ddns.net:8000/live/office/test/11368.ts
-#EXTINF:-1,UK@ ATN Bangla UK
-http://izgemma.ddns.net:8000/live/office/test/11363.ts
-#EXTINF:-1,UK@ BelieveTV
-http://izgemma.ddns.net:8000/live/office/test/11851.ts
-#EXTINF:-1,UK@ BBC World News
-http://izgemma.ddns.net:8000/live/office/test/11327.ts
-#EXTINF:-1,UK@ Blaze
-http://izgemma.ddns.net:8000/live/office/test/11877.ts
-#EXTINF:-1,UK@ BEN TV.
-http://izgemma.ddns.net:8000/live/office/test/37465.ts
-#EXTINF:-1,UK@ BEN TV
-http://izgemma.ddns.net:8000/live/office/test/11341.ts
-#EXTINF:-1,UK@ Talking Pictures
-http://izgemma.ddns.net:8000/live/office/test/11747.ts
-#EXTINF:-1,UK@ Forces TV
-http://izgemma.ddns.net:8000/live/office/test/11898.ts
-#EXTINF:-1,UK@ Record TV
-http://izgemma.ddns.net:8000/live/office/test/11738.ts
-#EXTINF:-1,UK@ London Live (Backup)
-http://izgemma.ddns.net:8000/live/office/test/37431.ts
-#EXTINF:-1,UK@ London Live
-http://izgemma.ddns.net:8000/live/office/test/11344.ts
-#EXTINF:-1,UK@ 3E
-http://izgemma.ddns.net:8000/live/office/test/26572.ts
-#EXTINF:-1,UK@ ITV 2
-http://izgemma.ddns.net:8000/live/office/test/10749.ts
-#EXTINF:-1,UK@ Sky 2
-http://izgemma.ddns.net:8000/live/office/test/14195.ts
-#EXTINF:-1,UK@ Sky 1
-http://izgemma.ddns.net:8000/live/office/test/14193.ts
-#EXTINF:-1,UK@ More 4
-http://izgemma.ddns.net:8000/live/office/test/22411.ts
-#EXTINF:-1,UK@ Thane
-http://izgemma.ddns.net:8000/live/office/test/30019.ts
-#EXTINF:-1,UK@ E
-http://izgemma.ddns.net:8000/live/office/test/26942.ts
-#EXTINF:-1,UK@ Discovery HD
-http://izgemma.ddns.net:8000/live/office/test/9879.ts
-#EXTINF:-1,UK@ Dave Ja vu
-http://izgemma.ddns.net:8000/live/office/test/27692.ts
-#EXTINF:-1,UK@ Discovery
-http://izgemma.ddns.net:8000/live/office/test/17217.ts
-#EXTINF:-1,UK@ ID (Backup)
-http://izgemma.ddns.net:8000/live/office/test/29504.ts
-#EXTINF:-1,UK@ ID HD
-http://izgemma.ddns.net:8000/live/office/test/11352.ts
-#EXTINF:-1,UK@ Animal Planet (Backup)
-http://izgemma.ddns.net:8000/live/office/test/17219.ts
-#EXTINF:-1,UK@ Animal Planet HD
-http://izgemma.ddns.net:8000/live/office/test/9882.ts
-#EXTINF:-1,UK@ Discovery Turbo (Backup)
-http://izgemma.ddns.net:8000/live/office/test/37428.ts
-#EXTINF:-1,UK@ Discovery Turbo
-http://izgemma.ddns.net:8000/live/office/test/9883.ts
-#EXTINF:-1,UK@ Insight HD
-http://izgemma.ddns.net:8000/live/office/test/37161.ts
-#EXTINF:-1,UK@ Sky Cinema Disney HD
-http://izgemma.ddns.net:8000/live/office/test/11378.ts
-#EXTINF:-1,UK@ Sky Cinema Drama HD
-http://izgemma.ddns.net:8000/live/office/test/21865.ts
-#EXTINF:-1,UK@ Sky Cinema Disney  (Backup)
-http://izgemma.ddns.net:8000/live/office/test/27092.ts
-#EXTINF:-1,UK@ Sky Cinema Family  (Backup)
-http://izgemma.ddns.net:8000/live/office/test/27093.ts
-#EXTINF:-1,UK@ Sky Cinema Family HD
-http://izgemma.ddns.net:8000/live/office/test/11377.ts
-#EXTINF:-1,UK@ Sky Cinema Action  (Backup)
-http://izgemma.ddns.net:8000/live/office/test/27094.ts
-#EXTINF:-1,UK@ Sky Cinema Action HD
-http://izgemma.ddns.net:8000/live/office/test/32784.ts
-#EXTINF:-1,UK@ Sky Cinema Comedy (Backup)
-http://izgemma.ddns.net:8000/live/office/test/27095.ts
-#EXTINF:-1,UK@ Sky Cinema Comedy HD
-http://izgemma.ddns.net:8000/live/office/test/11376.ts
-#EXTINF:-1,UK@ Sky Cinema Thriller (Backup)
-http://izgemma.ddns.net:8000/live/office/test/27096.ts
-#EXTINF:-1,UK@ Sky Cinema Thriller HD
-http://izgemma.ddns.net:8000/live/office/test/23804.ts
-#EXTINF:-1,UK@ Sky Cinema Select (Backup)
-http://izgemma.ddns.net:8000/live/office/test/27097.ts
-#EXTINF:-1,UK@ Sky Cinema Select HD
-http://izgemma.ddns.net:8000/live/office/test/32667.ts
-#EXTINF:-1,UK@ Sky Cinema Sci-Fi / Horror HD
-http://izgemma.ddns.net:8000/live/office/test/13626.
-#EXTINF:-1,UK@ Sky Cinema Showcase HD
-http://izgemma.ddns.net:8000/live/office/test/37274.ts
-#EXTINF:-1,UK@ Sky Cinema Hits HD
-http://izgemma.ddns.net:8000/live/office/test/37157.ts
-#EXTINF:-1,UK@ Sky Cinema ScFi / Horror HD
-http://izgemma.ddns.net:8000/live/office/test/11878.ts
-#EXTINF:-1,UK@ Sky Box Office 2 HD
-http://izgemma.ddns.net:8000/live/office/test/37296.ts
-#EXTINF:-1,UK@ Sky Box Office 1 HD
-http://izgemma.ddns.net:8000/live/office/test/37295.ts
-#EXTINF:-1,UK@ Heart TV
-http://izgemma.ddns.net:8000/live/office/test/11274.ts
-#EXTINF:-1,UK@ Sky Box Office 4 HD
-http://izgemma.ddns.net:8000/live/office/test/37298.ts
-#EXTINF:-1,UK@ Sky Box Office 3 HD
-http://izgemma.ddns.net:8000/live/office/test/37297.ts
-#EXTINF:-1,UK@ TCM HD
-http://izgemma.ddns.net:8000/live/office/test/14207.ts
-#EXTINF:-1,UK@ Film 4
-http://izgemma.ddns.net:8000/live/office/test/21369.ts
-#EXTINF:-1,UK@ Horror Channel
-http://izgemma.ddns.net:8000/live/office/test/11872.ts
-#EXTINF:-1,UK@ Movies 4 men + 1
-http://izgemma.ddns.net:8000/live/office/test/31321.ts
-#EXTINF:-1,UK@ Movies 4 Men
-http://izgemma.ddns.net:8000/live/office/test/11869.ts
-#EXTINF:-1,UK@ Movies 24
-http://izgemma.ddns.net:8000/live/office/test/26571.ts
-#EXTINF:-1,UK@ Nollywood
-http://izgemma.ddns.net:8000/live/office/test/11885.ts
-#EXTINF:-1,UK@ True Movies
-http://izgemma.ddns.net:8000/live/office/test/26494.ts
-#EXTINF:-1,UK@ ROK
-http://izgemma.ddns.net:8000/live/office/test/11867.ts
-#EXTINF:-1,Boxing Haye V Bellew
-http://izgemma.ddns.net:8000/live/office/test/37284.ts
-#EXTINF:-1,Box Office Boxing Haye V Bellew -2
-http://izgemma.ddns.net:8000/live/office/test/37283.ts
-#EXTINF:-1,Box Office Boxing Haye V Bellew
-http://izgemma.ddns.net:8000/live/office/test/37282.ts
-#EXTINF:-1,Sky Sports PPV HD (Boxing Haye V Bellew)(Backup)
-http://izgemma.ddns.net:8000/live/office/test/37272.ts
-#EXTINF:-1,Sky Sports PPV HD (Boxing Haye V Bellew)
-http://izgemma.ddns.net:8000/live/office/test/37271.ts
-#EXTINF:-1,UK@ Sky Sports Main Event(Backup)
-http://izgemma.ddns.net:8000/live/office/test/36513.ts
-#EXTINF:-1,UK@ Sky Sports Main Event HD
-http://izgemma.ddns.net:8000/live/office/test/36512.ts
-#EXTINF:-1,UK@ Sky Sports Premier League HD
-http://izgemma.ddns.net:8000/live/office/test/36514.ts
-#EXTINF:-1,UK@ Sky Sports Premier League(Backup)
-http://izgemma.ddns.net:8000/live/office/test/13633.ts
-#EXTINF:-1,UK@ Sky Sports Football HD
-http://izgemma.ddns.net:8000/live/office/test/12451.ts
-#EXTINF:-1,UK@ Sky Sports Football(Backup)
-http://izgemma.ddns.net:8000/live/office/test/36511.ts
-#EXTINF:-1,UK@ Sky Sports Football (Backup-1)
-http://izgemma.ddns.net:8000/live/office/test/37400.ts
-#EXTINF:-1,UK@ Sky Sports Cricket HD
-http://izgemma.ddns.net:8000/live/office/test/32881.ts
-#EXTINF:-1,UK@ UTV Ireland
-http://izgemma.ddns.net:8000/live/office/test/11343.ts
-#EXTINF:-1,UK@ Word Network
-http://izgemma.ddns.net:8000/live/office/test/11893.ts
-#EXTINF:-1,UK@ TBN UK
-http://izgemma.ddns.net:8000/live/office/test/11891.ts
-#EXTINF:-1,UK@ .BBC ONE HD
-http://izgemma.ddns.net:8000/live/office/test/13684.ts
-#EXTINF:-1,UK@ .BBC Two HD
-http://izgemma.ddns.net:8000/live/office/test/13685.ts
-#EXTINF:-1,UK@ .ITV HD
-http://izgemma.ddns.net:8000/live/office/test/13701.ts
-#EXTINF:-1,UK@ .Channel 5 HD
-http://izgemma.ddns.net:8000/live/office/test/13687.ts
-#EXTINF:-1,UK@ .Sky Living HD
-http://izgemma.ddns.net:8000/live/office/test/13689.ts
-#EXTINF:-1,UK@ .W HD
-http://izgemma.ddns.net:8000/live/office/test/13692.ts
-#EXTINF:-1,UK@ .ITV 2 HD
-http://izgemma.ddns.net:8000/live/office/test/13697.ts
-#EXTINF:-1,UK@ .ITV 3 HD
-http://izgemma.ddns.net:8000/live/office/test/13698.ts
-#EXTINF:-1,UK@ .ITV 4 HD
-http://izgemma.ddns.net:8000/live/office/test/13699.ts
-#EXTINF:-1,UK@ .BBC Four HD
-http://izgemma.ddns.net:8000/live/office/test/13700.ts
-#EXTINF:-1,UK@ .Universal HD
-http://izgemma.ddns.net:8000/live/office/test/13695.ts
-#EXTINF:-1,UK@ .Syfy HD
-http://izgemma.ddns.net:8000/live/office/test/13696.ts
-#EXTINF:-1,UK@ .Comedy Central HD
-http://izgemma.ddns.net:8000/live/office/test/13694.ts
-#EXTINF:-1,UK@ .Crime Investigation HD
-http://izgemma.ddns.net:8000/live/office/test/13711.ts
-#EXTINF:-1,UK@ .Sky One HD
-http://izgemma.ddns.net:8000/live/office/test/17248.ts
-#EXTINF:-1,UK@ .Sky 1 HD
-http://izgemma.ddns.net:8000/live/office/test/17929.ts
-#EXTINF:-1,UK@ .Sky 2 HD
-http://izgemma.ddns.net:8000/live/office/test/17930.ts
-#EXTINF:-1,UK@ .FOX Life HD
-http://izgemma.ddns.net:8000/live/office/test/17931.ts
-#EXTINF:-1,UK@ .Fox Crime HD
-http://izgemma.ddns.net:8000/live/office/test/17932.ts
-#EXTINF:-1,UK@ .More4 HD
-http://izgemma.ddns.net:8000/live/office/test/8422.ts
-#EXTINF:-1,UK@ .Al Jazeera HD
-http://izgemma.ddns.net:8000/live/office/test/13705.ts
-#EXTINF:-1,UK@ .&tv HD
-http://izgemma.ddns.net:8000/live/office/test/11904.ts
-#EXTINF:-1,BAN@ Channel 9
-http://izgemma.ddns.net:8000/live/office/test/14133.ts
-#EXTINF:-1,UK@ Islam Channel Urdu
-http://izgemma.ddns.net:8000/live/office/test/14144.ts
-#EXTINF:-1,UK@ Discovery History.
-http://izgemma.ddns.net:8000/live/office/test/10126.ts
-#EXTINF:-1,UK@ Zing
-http://izgemma.ddns.net:8000/live/office/test/11314.ts
-#EXTINF:-1,UK@ .Alibi HD
-http://izgemma.ddns.net:8000/live/office/test/17144.ts
-#EXTINF:-1,UK@ .Sky News HD
-http://izgemma.ddns.net:8000/live/office/test/17221.ts
-#EXTINF:-1,UK@ .E4 HD
-http://izgemma.ddns.net:8000/live/office/test/17251.ts
-#EXTINF:-1,UK@ .Fox HD
-http://izgemma.ddns.net:8000/live/office/test/17253.ts
-#EXTINF:-1,UK@ .TLC HD
-http://izgemma.ddns.net:8000/live/office/test/17255.ts
-#EXTINF:-1,UK@ .ITV Be HD
-http://izgemma.ddns.net:8000/live/office/test/17258.ts
-#EXTINF:-1,UK@ .RTI HD
-http://izgemma.ddns.net:8000/live/office/test/17927.ts
-#EXTINF:-1,UK@ .RTE 2 HD
-http://izgemma.ddns.net:8000/live/office/test/17928.ts
-#EXTINF:-1,UK@ .Al Jazeera Eng HD
-http://izgemma.ddns.net:8000/live/office/test/17934.ts
-#EXTINF:-1,UK@ .ID HD
-http://izgemma.ddns.net:8000/live/office/test/17937.ts
-#EXTINF:-1,UK@ .Dave HD
-http://izgemma.ddns.net:8000/live/office/test/17261.ts
-#EXTINF:-1,UK@ .Sky Arts HD
-http://izgemma.ddns.net:8000/live/office/test/17262.ts
-#EXTINF:-1,UK@ .History HD
-http://izgemma.ddns.net:8000/live/office/test/17581.ts
-#EXTINF:-1,UK@ .Discovery HD
-http://izgemma.ddns.net:8000/live/office/test/17265.ts
-#EXTINF:-1,UK@ .Animal Planet HD
-http://izgemma.ddns.net:8000/live/office/test/17266.ts
-#EXTINF:-1,UK@ .MTV HD
-http://izgemma.ddns.net:8000/live/office/test/17267.ts
-#EXTINF:-1,UK@ .Sky Cinema Premiere HD
-http://izgemma.ddns.net:8000/live/office/test/17268.ts
-#EXTINF:-1,USA: CNN
-http://izgemma.ddns.net:8000/live/office/test/6093.ts
-#EXTINF:-1,USA: C-Span2
-http://izgemma.ddns.net:8000/live/office/test/22988.ts
-#EXTINF:-1,USA: QVC HD
-http://izgemma.ddns.net:8000/live/office/test/22989.ts
-#EXTINF:-1,USA: C Span2
-http://izgemma.ddns.net:8000/live/office/test/37326.ts
-#EXTINF:-1,USA: PAC-12_Network_Live
-http://izgemma.ddns.net:8000/live/office/test/37327.ts
-#EXTINF:-1,USA: ESPN-1HD
-http://izgemma.ddns.net:8000/live/office/test/37330.ts
-#EXTINF:-1,USA: PAC-12 Network
-http://izgemma.ddns.net:8000/live/office/test/37500.ts
-#EXTINF:-1,USA: TSN 3
-http://izgemma.ddns.net:8000/live/office/test/37503.ts
-#EXTINF:-1,USA: TSN 5
-http://izgemma.ddns.net:8000/live/office/test/37505.ts
-#EXTINF:-1,IN: Star Sports 2 (.)
-http://izgemma.ddns.net:8000/live/office/test/309.ts
-#EXTINF:-1,IN: Star Sports 2 HD (.)
-http://izgemma.ddns.net:8000/live/office/test/611.ts
-#EXTINF:-1,IN: Star Sports 3 (.)
-http://izgemma.ddns.net:8000/live/office/test/308.ts
-#EXTINF:-1,IN: Star Sports 3 HD (.)
-http://izgemma.ddns.net:8000/live/office/test/610.ts
-#EXTINF:-1,IN: Star Sports 4 (.)
-http://izgemma.ddns.net:8000/live/office/test/307.ts
-#EXTINF:-1,IN: Star plus HD (.)
-http://izgemma.ddns.net:8000/live/office/test/268.ts
-#EXTINF:-1,IN: Sun Music Tamil (.)
-http://izgemma.ddns.net:8000/live/office/test/280.ts
-#EXTINF:-1,IN: Sun TV Tamil (.)
-http://izgemma.ddns.net:8000/live/office/test/279.ts
-#EXTINF:-1,IN: Ten 1 HD (.)
-http://izgemma.ddns.net:8000/live/office/test/274.ts
-#EXTINF:-1,IN: Ten Action (.)
-http://izgemma.ddns.net:8000/live/office/test/291.ts
-#EXTINF:-1,IN: UTV Movies (.)
-http://izgemma.ddns.net:8000/live/office/test/290.ts
-#EXTINF:-1,IN: Warner Bros Movies (.)
-http://izgemma.ddns.net:8000/live/office/test/276.ts
-#EXTINF:-1,IN: AsianNet Plus
-http://izgemma.ddns.net:8000/live/office/test/6293.ts
-#EXTINF:-1,IN: Jaya Max
-http://izgemma.ddns.net:8000/live/office/test/6297.ts
-#EXTINF:-1,UK: KTV
-http://izgemma.ddns.net:8000/live/office/test/6296.ts
-#EXTINF:-1,IN: MTV India
-http://izgemma.ddns.net:8000/live/office/test/6303.ts
-#EXTINF:-1,IN: Raj Musix
-http://izgemma.ddns.net:8000/live/office/test/6298.ts
-#EXTINF:-1,IN: Star Jalsha
-http://izgemma.ddns.net:8000/live/office/test/6299.ts
-#EXTINF:-1,IN: Zee Bangla
-http://izgemma.ddns.net:8000/live/office/test/6276.ts
-#EXTINF:-1,IN: Zee BollyWood HD (.)
-http://izgemma.ddns.net:8000/live/office/test/263.ts
-#EXTINF:-1,IN: Zee Cinema HD (.)
-http://izgemma.ddns.net:8000/live/office/test/264.ts
-#EXTINF:-1,IN: Zee Tv (.)
-http://izgemma.ddns.net:8000/live/office/test/288.ts
-#EXTINF:-1,IN: Zee Tv HD (.)
-http://izgemma.ddns.net:8000/live/office/test/287.ts
-#EXTINF:-1,IN:Zee Tv HD
-http://izgemma.ddns.net:8000/live/office/test/267.ts
-#EXTINF:-1,PK: 92 News Hd (.)
-http://izgemma.ddns.net:8000/live/office/test/324.ts
-#EXTINF:-1,PK: Aaj Tak
-http://izgemma.ddns.net:8000/live/office/test/322.ts
-#EXTINF:-1,PK: Ary News (.)
-http://izgemma.ddns.net:8000/live/office/test/320.ts
-#EXTINF:-1,PK: Ary Zindagi (.)
-http://izgemma.ddns.net:8000/live/office/test/319.ts
-#EXTINF:-1,PK: Geo TV (.)
-http://izgemma.ddns.net:8000/live/office/test/327.ts
-#EXTINF:-1,PK: Geo Super (.)
-http://izgemma.ddns.net:8000/live/office/test/317.ts
-#EXTINF:-1,PK: Ptv Home (.)
-http://izgemma.ddns.net:8000/live/office/test/312.ts
-#EXTINF:-1,PK: Kohenoor
-http://izgemma.ddns.net:8000/live/office/test/6275.ts
-#EXTINF:-1,PK: Hum TV
-http://izgemma.ddns.net:8000/live/office/test/6031.ts
-#EXTINF:-1,PK: Waqt News (.)
-http://izgemma.ddns.net:8000/live/office/test/329.ts
-Share this:
+#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/PUNJAB5AAB.jpg" group-title="",5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png" group-title="Music",7S Music
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-title="",ABP Ananda
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZNoM8_ZqOG-8Lksy07YD-ltPehSFnfWcmxTU1LxlwbC58_8jcfJ987g" group-title="News",ABP Asmita
+http://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/08/abp_asmita_in.png" group-title="News",ABP Asmita
+https://abp-i.akamaihd.net/hls/live/765532/abpasmita/masterhls_1564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/abpmajha78.jpg" group-title="News",ABP Majha
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
+#EXTINF:-1 tvg-id="ABP News-IN" tvg-name="ABP News-IN" tvg-language="English" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="News",ABP News
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://www.asianetmobiletv.com/channels/ACV.png" group-title="",ACV
+https://acv.asianetmobiletvplus.com/channels/8f8e72769cb3e3a6e27c220e1e3887b8.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acv.png" group-title="",ACV
+https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acvjukee.png" group-title="",ACV Jukebox
+https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acv_in_news.png" group-title="News",ACV News
+https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acvutsaav.png" group-title="",ACV Utsav
+https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acvplus.png" group-title="",ACV Utsav Plus
+https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="",Akaal TV
+http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/hAgaVPa.jpg" group-title="",Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/akaramkids1.png" group-title="Kids",Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",Akaram TV
+http://akaram.zecast.net/akaram-live/akaramnew2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/akaram1.png" group-title="",Akaram TV
+http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Amar Ujala
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/amrita_tv-1.png" group-title="Entertainment",Amrita TV
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/analaiexpress1.jpg" group-title="",Analai Express HD
+http://live.streamjo.com:1935/sarastv/sarastv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/ANANDTV-1.png" group-title="Entertainment",Anand TV
+https://anandtvapp-live.anandmedia.tv/anandtvapp/anandtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/ANANDTV-1.png" group-title="Entertainment",Anand TV
+https://anandtvapp-live.anandmedia.tv/anandtvapp/anandtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/89LBgkl.png" group-title="News",Asianet News
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://www.asianetmobiletv.com/channels/Asianet%20Utsav.png" group-title="",Asianet Utsav
+https://acv.asianetmobiletvplus.com/channels/021c9292219a98f899a7b74f0f34baa7.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://teleon.tv/images/logos/acv-utsav-plus-in.png" group-title="",Asianet Utsav Plus
+https://acv.asianetmobiletvplus.com/channels/7eb4dc1f3240c8eb776d41b95bd1d197.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="News",Assam Talks
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/ayush_tv_in.png" group-title="Lifestyle",Ayush TV
+http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/b4u-kadak-in.png" group-title="Music",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/B4U_MOVIES.png" group-title="Movies",B4U Movies
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
+#EXTINF:-1 tvg-id="B4U Movies-IN" tvg-name="B4U Movies-IN" tvg-language="English" tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2017/03/b4umovies001.jpg" group-title="Movies",B4U Movies
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="B4U Music-IN" tvg-name="B4U Music-IN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="Music",B4U Music
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/b4u_music_in.png" group-title="Music",B4U Music
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/01/b4u_plus_ae.png" group-title="Movies",B4U Plus
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/BBC_World_News-1.png" group-title="News",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://www.bhaktisagartv.com/images/HD-Logo.png" group-title="",Bhakti Sagar
+http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/index_2128_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Bhakti Sagar
+http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" group-title="",Bollywood Classic
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/w06sLAh.jpg" group-title="",Bollywood Now
+https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png" group-title="",Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Boss TV
+http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/Screenshot_1-1.png" group-title="Entertainment",Channel D
+http://37.220.111.189:1935/live/Studio_web/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/CINEVOICETV56.jpg" group-title="Music",Cine Voice
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/VCUhufk.jpg" group-title="",Cine Voice
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/cinema_tv_in.png" group-title="Movies",Cinema TV
+https://acv.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/02/yuppclassicsmarathi.png" group-title="Movies",Classics Marathi
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarcla.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/Screenshot_2.png" group-title="Movies",Classics Tamil
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/yuppclassicstelugu.png" group-title="Movies",Classics Telugu
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcla.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/CNBC_Awaaz_2010.png" group-title="Business",CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/08/cnbc_bajar_in.png" group-title="News",CNBC Bajar
+https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/3yumcV3.jpg" group-title="Business",CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/3yumcV3.jpg" group-title="Business",CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/yuppcomedytelugu.png" group-title="Movies",Comedy Telugu
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcom.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Dsports-channel-hd-img_logo.jpg" group-title="Sport",D Sport
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/dd_malayalam-1.png" group-title="Entertainment",DD Malayalam
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/dd_national.png" group-title="Entertainment",DD National
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:-1 tvg-id="DD News-IN" tvg-name="DD News-IN" tvg-language="English" tvg-logo="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" group-title="News",DD News
+http://bit.ly/2m4L4mi
+#EXTINF:-1 tvg-id="DD News-IN" tvg-name="DD News-IN" tvg-language="English" tvg-logo="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" group-title="News",DD News
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1 tvg-id="DD Punjabi-IN" tvg-name="DD Punjabi-IN" tvg-language="English" tvg-logo="http://webcast.gov.in/images/ddPunjabi.png" group-title="",DD Punjabi
+http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://127.0.0.1/" group-title="Sport",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://www.livenewsmag.com/wp-content/uploads/2017/03/DD-Sports-TV.jpg" group-title="Sport",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://webcast.gov.in/images/channel_two.png" group-title="",DD Vyas
+http://playhls.media.nic.in/live/vyas-360p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/DESICHANNEL09.jpg" group-title="Music",Desi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/desiplustv.jpg" group-title="",Desi Plus
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://www.dhamaal.tv/images/logo.png" group-title="",Dhamaal
+http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/index_2128_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Dhamaal
+http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="Music",Dil Se
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="Kids",Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://channeldivya.com/wp-content/uploads/2018/12/logo.png" group-title="",Divya
+http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w927914309.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/DSport_logo.png/300px-DSport_logo.png" group-title="Sport",DSport
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/deutsche_welle_tv_de.png" group-title="News",DW
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",ET Now
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/et_now.png" group-title="News",ET Now
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/fashion_tv_fr.png" group-title="Fashion",Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://fatehtvonline.com/wp-content/uploads/2014/10/FATEH-TV-LOGO-ENGLISH.png" group-title="",Fateh TV
+http://175.176.184.11:1935/live/fatehtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/FLOWERS.jpg" group-title="Entertainment",Flowers TV
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/k9kHJv9.jpg" group-title="Music",Gabruu TV
+http://104.237.60.234/live/gabruutv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/J74dCx6.png" group-title="",Gaunda Punjab TV
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/qJkwmlD.jpg" group-title="",Gurbani Healing
+http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/lzmU9zr.png" group-title="",Harvest TV USA
+http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Hiru_TV-Logo.png/220px-Hiru_TV-Logo.png" group-title="",Hiru TV
+http://cdncities.com/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/TCF8nBO.jpg" group-title="",Hungama Digital Network
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/45232.png" group-title="Comedy",IBC Comedy
+https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy_std.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/ibc-1.png" group-title="Entertainment",IBC Tamil
+https://ibctamil-live.ibctamil.com/transcode/ibctamil_std.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/unnamed.jpg" group-title="",Inchara TV
+http://inchara.livebox.co.in/incharahls/live.m3u8
+#EXTINF:-1 tvg-id="India Today-IN" tvg-name="India Today-IN" tvg-language="English" tvg-logo="https://streamvlog.com/wp-content/uploads/2018/12/india-today-tv-english-news-live.jpg" group-title="",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 tvg-id="India TV-IN" tvg-name="India TV-IN" tvg-language="English" tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="",India TV
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/632INSI635.png" group-title="Entertainment",Insight
+http://jiocgwhub.jio.ril.com/Insight/Insight.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/insync_tv_in.png" group-title="Music",Insync Music
+http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/jai_hind_tv.png" group-title="Entertainment",Jaihind TV
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/janam_tv_in.png" group-title="Entertainment",Janam TV
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Janta TV
+http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://jatttv.c1.biz/wp-content/uploads/2020/03/cropped-jattv.png" group-title="",Jatt TV bhangra music
+https://edge.hls.hitbox.tv/hls/desijattuk/index.m3u8?st=JCp6gtouk2QPBi3gjVQaTQ;ci=lc5Dj7aG8uTMtaU_WwLCxg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://jatttv.c1.biz/wp-content/uploads/2020/03/cropped-jattv.png" group-title="",Jatt TV bhangra music
+https://usb.bozztv.com/ssh101/jatttv/jatttv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="Music",Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="Music",Kadak Hits
+http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/330px-Kairali_TV.svg.png" group-title="",Kairali
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/Screenshot_1-3.png" group-title="News",Kairali News
+http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kairali_in.png" group-title="Entertainment",Kairali TV
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kairali_in_we.png" group-title="Entertainment",Kairali We
+http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg" group-title="",Kalaignar
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="News",Kanak News
+http://139.59.13.228:8081/live/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kappa_tv_in.png" group-title="Lifestyle",Kappa TV
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Kasthuri_TV.png" group-title="Entertainment",Kasthuri TV
+http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kaumudy_tv.png" group-title="Entertainment",Kaumudy TV
+http://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
+#EXTINF:-1 tvg-id="KTV HD-IN" tvg-name="KTV HD-IN" tvg-language="English" tvg-logo="http://www.sunnetwork.in/ChannelLogo/3ktv.jpg" group-title="Movies",KTV
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/chunklist_w798628189_b232000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Lok Sabha TV
+https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/nt8hp1T.png" group-title="",Lotus TV News
+http://51.75.95.11:5080/LiveApp/streams/962725995284705956438804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/magnavision-tv-white.png" group-title="Entertainment",Magna Vision TV
+http://livestream.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/mangalam_tv_in.png" group-title="News",Mangalam TV
+http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/manorama_news_central.png" group-title="News",Manorama News
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MASTIII.png" group-title="Music",Mastiii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/mathrubhumi_news.png" group-title="News",Mathrubhumi News
+http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-1.png" group-title="Entertainment",Mazhavil Manorama HD
+http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/media_one_in.png" group-title="News",Media One
+http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/media_one_in.png" group-title="News",Media One
+https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="",Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/mirror_now_in.png" group-title="News",Mirror Now
+https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/MK_SIX.png" group-title="",MK Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/MK_TUNES.png" group-title="",MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/mk_tv_in.png" group-title="Entertainment",MK TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MNX.png" group-title="",MNX
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/movies_now.png" group-title="Movies",Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/02/osn_music_now.png" group-title="Music",Music Now
+http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/NAVM.png" group-title="",Nav Media
+http://abr.wmncdn.net/abr/612a5eb791b43209a8eccdde569e8ee1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="",Nazrana
+http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
+#EXTINF:-1 tvg-id="NDTV 24x7-IN" tvg-name="NDTV 24x7-IN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/NDTV_247.svg" group-title="News",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://nepalitv.co.uk/images/logo.png" group-title="",Nepali TV
+http://live.zecast.net/ntvglobal/nepalitv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://srilankanews.wpengine.netdna-cdn.com/wp-content/uploads/2015/09/nethra.png" group-title="",Nethra TV
+http://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/news24-2.jpg" group-title="News",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://static.newsnation.in/images/newsnation-logo.png" group-title="News",News Nation
+https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/news_nation12_in.png" group-title="News",News Nation
+https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://static.newsstate.com/static/images/logo.jpg" group-title="News",News State
+https://hls2.newsstate.com/NS1_HTTP_LIVE/ngrp:myStream_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://static.newsstate.com/static/images/logo.jpg" group-title="News",News State Madhya Pradesh
+https://hls3.newsnation.in/NS2_HTTP_LIVE/ngrp:mystream3_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="News",News18 Lokmat
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Pop Pataka
+http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://www.hungama.com/assets/images/logo.png" group-title="",Pop Pataka
+https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="News",Pratidin Time
+https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/yupppremiummarathi.png" group-title="Movies",Premium Marathi
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarpre.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/PRIMECANADA.png" group-title="Entertainment",Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/propex.png" group-title="",Propex TV
+http://jiocgwhub.jio.ril.com/Propex_TV/Propex_TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Prudent Media
+https://5a9fe19ea6821.streamlock.net/prudentmedia/livestream3/chunklist_w2110152999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/public_music_in.png" group-title="Music",Public Music
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Punjabi Tadka
+http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/PUNJABITVV.jpg" group-title="",Punjabi TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/PUTHUYUGAM.png" group-title="",Puthuyugam TV
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/raj_digital_plus-1.png" group-title="Movies",Raj Digital Plus
+http://acv.asianetmobiletvplus.com/channels/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_hls/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/reporter_tv.png" group-title="News",Reporter TV
+http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://www.reporter.live/wp-content/themes/reporter_v2/images/logo_latest.png" group-title="News",Reporter TV
+http://livecdnh1.tvanywhere.ae:80/hls/reporter/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://www.reporter.live/wp-content/themes/reporter_v2/images/logo_latest.png" group-title="News",Reporter TV
+http://livecdnh1.tvanywhere.ae:80/hls/reporter/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/02/154995154574197104.png" group-title="News",Republic Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?hdnts=st=1567723990~exp=1567726990~acl=/*~hmac=40fec7023d1d84b24d1267d9ee0ab92bceff3d35274ebef7be58aaeea1472868
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/romedy_now_in.png" group-title="Movies",Romedy Now
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://www.asianetmobiletv.com/channels/RoseBowl.png" group-title="",Rosebowl
+https://acv.asianetmobiletvplus.com/channels/ef22daf97d61acb4bf52376c4105ad02.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/rosebowl.png" group-title="",Rosebowl
+https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/9NsI8zT.jpg" group-title="",RSTV RajyaSabha
+http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",Sakkat
+http://linear03hun-lh.akamaihd.net/i/sakkat_1@665240/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/LsacUVi.png" group-title="",Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/LsacUVi.png" group-title="",Santhora TV
+http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/6Q844bs.jpg" group-title="",Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/ibnqDAD.png" group-title="Religious",Shubhsandesh
+http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/3TZPKGL.png" group-title="",Sikh Channel
+http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Sony ESPN
+https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92709/14040637.jpg" group-title="",Sony Max
+https://streamer-1.toffeelive.com/live/sony_max_576/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92709/14040639.jpg" group-title="",Sony Max HD
+https://streamer-1.toffeelive.com/live/set_max_hd_576/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92709/14040636.jpg" group-title="",Sony Mix
+https://streamer-1.toffeelive.com/live/sony_mix_576/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Sony PIX
+https://streamer-1.toffeelive.com/live/sony_pix_576/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Sony Six
+https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Sony Ten 1
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Sport",Sony Ten 1 HD
+https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Sony Ten 2
+https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Sport",Sony Ten 2 HD
+https://dl.dropbox.com/s/frs8vbpd0gthf6s/badminton2.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://127.0.0.1/" group-title="Sport",Sony TEN 3
+http://163.172.85.133:8080/TenS/3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Sony Ten 3
+https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92709/14040635.png" group-title="",Sony TV
+https://streamer-1.toffeelive.com/live/sony_entertainment_576/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/GylvfMQ.png" group-title="Movies",Star Movies HD Middle East
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BZSRtmI.png" group-title="",Star World HD Middle East
+http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/nwxCDxG.png" group-title="",Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://ststamiltv.stsstudio.com/wp-content/uploads/2018/07/cropped-STS-logo-inda-2.png" group-title="",STS Tamil
+http://santhora.de.flash.glb.ipercast.net/santhora.de-live/sts/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://www.subrangtv.com/wp-content/uploads/2017/03/custom-logo.jpg" group-title="",Subrang TV
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/super_tvC_in.png" group-title="Entertainment",Super TV
+http://103.199.160.85/Content/supertv/Live/Channel(SuperTV)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/rsz_59bf88822fd6e2c3371ae9eff844f21e_0.png" group-title="Movies",Sur Sagar TV
+http://sursagar24.dyndns.tv:8080/sstv/720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/NLq17Q8.jpg" group-title="",Sur Sagar TV
+http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/suvarna_news_in.png" group-title="News",Suvarna News 24×7
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="https://i.imgur.com/Dwfiylo.png" group-title="Business",Tamil Business TV
+http://rtmp.santhoratv.zecast.net/tamilbusinesstv//tamilbusinesstv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/tamilbusiness.png" group-title="Business",Tamil Business TV
+http://rtmp.santhoratv.zecast.net/tamilbusinesstv/tamilbusinesstv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="https://www.tamil.de/wp-content/uploads/2018/01/Bildschirmfoto-2018-01-28-um-12.33.09.png" group-title="",Tamil Business TV
+http://santhoratv.zecast.net/tamilbusinesstv/tamilbusinesstv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/03/Screenshot_1.png" group-title="",Tamil MTV
+http://santhora.de.flash.glb.ipercast.net/santhora.de-live/tamilmtv/tamilmtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/03/Screenshot_1.png" group-title="Local",Tamil MTV
+http://santhora.de.flash.glb.ipercast.net/santhora.de-live/tamilmtv/tamilmtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/rsz_tamil_vision_international1.jpg" group-title="",Tamil Vision International
+http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/4123.png" group-title="News",Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="",The Q India
+https://amg1-i.akamaihd.net/hls/live/784034/Q001/playlist.m3u8?__nn__=5606168722001&hdnea=st=1566232200~exp=1566235800~acl=/hls/live/784034/Q001/*~hmac=4de929fdc0ee53199a11237ee75a695383a82a42623fa92c1376493e5fc91d7b
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/THIRUMALAI1.png" group-title="",Thirumalai TV
+http://abcmedias2.livewebcast.in/abcmedias/_definst_/abcmediaslive.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Times Now HD-IN" tvg-name="Times Now HD-IN" tvg-language="English" tvg-logo="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png" group-title="News",Times Now
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-8.png" group-title="News",Times Now HD
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="News",TV100
+http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Telugu" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/tv9_telugu.png" group-title="News",TV9 Telugu
+http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/24_news_in.png" group-title="News",Twenty Four News
+http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/VAANAVIL_TV.png" group-title="Local",Vaanavil TV
+http://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/85642.png" group-title="",Vanavil Plus
+http://45.79.203.234:1935/vanavil/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/01/unnamed.jpg" group-title="Entertainment",Vasantham
+https://d39v9xz8f7n8tk.cloudfront.net//hls//vsnthmctv//master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/03/watamantv.png" group-title="",Vathanam TV
+http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="https://pbs.twimg.com/profile_images/532196435702198274/Dcl1GXNu_400x400.png" group-title="",Vendharm TV
+http://45.79.203.234:1935/vendharm/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="https://img9.downloadapk.net/9/9d/92c4e9_0.png" group-title="",Vendharm TV
+http://45.79.203.234:1935/vendharm/myStream/chunklist_w2001796311.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://images.jdmagicbox.com/chennai/e6/044pxx44.xx44.121015162838.h7e6/logo/eb28694445bcefbea53fff28807770f5.jpg" group-title="",Vendharm TV
+http://45.79.203.234:1935/vendharm/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/26lmooH.jpg" group-title="Education",Vyas Higher Education Channel
+http://playhls.media.nic.in/live/vyas/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/Nisf9Yt.png" group-title="Music",Wow Music
+http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/Nisf9Yt.png" group-title="Music",Wow Music
+http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/cFrupeK.png" group-title="",Y
+http://161.0.157.5/PLTV/88888888/224/3221226832/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92709/14040633.jpg" group-title="",Zee Action
+https://streamer-1.toffeelive.com/live/zee_action_576/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/6S9cQR4.jpg" group-title="Movies",Zee Aflam
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/CdXieB6.png" group-title="",Zee Bioskop
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/CdXieB6.png" group-title="",Zee Bioskop
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
