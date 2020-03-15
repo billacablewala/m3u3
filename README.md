@@ -27,10 +27,7 @@ https://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3.m3u8
 https://agplayback03.aotg-video.astro.com.my/CH2/master_GOSHOP2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_300.png" group-title="",Astro Naura
 https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="" group-title="Movies",CELESTIAL MOVIES
-http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/index1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="",CinemaWorld
-http://210.210.155.35/uq2663/h/h04/01.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://freeview.github.io/iptv/logos/dramasangat.png" group-title="",Drama Sangat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://i.imgur.com/Vy0PPFD.jpg" group-title="Entertainment",Gem TV Asia
@@ -51,12 +48,7 @@ https://rtm2hdmobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b206400
 https://rtm1hdmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sport",RTM Sports
 https://rtm6hdmobile.secureswiftcontent.com/Origin2/ngrp:RTM2/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="",TV Ikim
-http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="",TV Ikim
-http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8?fbclid=IwAR2pQ3EzRJ2pUfAogiUoBq_GXfBINwLnPV7zbDflZHqiexMerygAaQN8z88
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="",TV Ikim
-http://edge.vediostream.com:80/abr/tvikim/live/tvikim_360p/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="",TV Ikim
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://freeview.github.io/iptv/logos/tv9.png" group-title="",TV9
@@ -77,14 +69,7 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
-http://161.0.157.5/PLTV/88888888/224/3221226899/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
-http://161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
-http://161.0.157.9/PLTV/88888888/224/3221226899/04.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92709/14040637.jpg" group-title="",Sony Max
 https://streamer-1.toffeelive.com/live/sony_max_576/index.m3u8
@@ -177,143 +162,7 @@ http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eY653jm.png" group-title="INDIA",Shan Punjabi (New!)
-http://live.wmncdn.net/shanpunjabitv/36a030a5650ff0fb071ca626e899dd61.sdp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p4MSiWI.png" group-title="INDIA",Sony ESPN (New!)
-https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3On1aEg.png" group-title="INDIA",Sony Pix (New!)
-https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kmp9jwJ.png" group-title="INDIA",Sony Six (New!)
-http://fr-c.movply.stream/hls/sony-six-hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L2lYhxs.png" group-title="INDIA",Sony Ten 1 (New!)
-https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NtvCGGq.png" group-title="INDIA",Sony Ten 2 (New!)
-http://fr-c.movply.stream/hls/sony-ten-2-hd.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0VIRCvp.png" group-title="INDIA",Sony Ten 3 (New!)
-http://fr-c.movply.stream/hls/sony-ten-1-hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Idpn4mL.png" group-title="INDIA",Star Jalsha (New!)
-http://103.205.133.44:1935/local/STAR-JALSHA/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.pakistantv.tv/wp-content/uploads/2014/10/Pakistan-icon1.png" group-title="LABEL",~ Pakistan TV ~
-http://www.lengua.com/anthems/Pakistan.mp3
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hwqJRrT.png" group-title="PAKISTAN",92 News (Opt-1)
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hwqJRrT.png" group-title="PAKISTAN",92 News (Opt-2)
-http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QEOWyUl.png" group-title="PAKISTAN",ARY Digital
-http://158.69.229.29:8081/digital_abr/streamabr/digital/livestream_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dZcfII0.png" group-title="PAKISTAN",ARY Zindagi
-http://149.202.205.24:1935/ARYZINDAGI/ngrp:myStream_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eBvf4zM.png" group-title="PAKISTAN",Canada One (CA)
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wyKc0nX.png" group-title="PAKISTAN",Dunya News (Opt-1)
-http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wyKc0nX.png" group-title="PAKISTAN",Dunya News (Opt-2)
-http://109.169.19.173:1935/live/dunyalive_1/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wyKc0nX.png" group-title="PAKISTAN",Dunya News (Opt-3)
-http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PbDBky1.png" group-title="PAKISTAN",Eawaz TV (CA)
-https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ti3KObC.png" group-title="PAKISTAN",Express TV
-https://5a6ada4d8f439.streamlock.net/expressdigital/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sZqDIem.png" group-title="PAKISTAN",Eye 95 America (US)
-http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a6styEc.png" group-title="PAKISTAN",Geo Kahani
-http://streamer64.eboundservices.com/geo/geokahani_abr/geo/geokahani_master/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/exS3g7u.png" group-title="PAKISTAN",Geo News
-http://stream.jeem.tv/geo/geonews/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D35nAb2.png" group-title="PAKISTAN",Geo Tez
-http://stream.jeem.tv/geo/geotezz/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K38brUq.png" group-title="PAKISTAN",Geo TV (Opt-1)
-http://stream.jeem.tv/geo/geoentertainment/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K38brUq.png" group-title="PAKISTAN",Geo TV (Opt-2)
-http://streamer64.eboundservices.com/geo/geoentertainment_abr/geo/geoentertainment_master/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XXLQuHJ.png" group-title="PAKISTAN",Joomusic
-https://streamer12.vdn.dstreamone.net/joomusic/joomusic/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JHG5Qbw.png" group-title="PAKISTAN",Jwand TV
-http://dcunilive23-lh.akamaihd.net/i/dclive_1@48939/index_150_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k4RmfYW.png" group-title="PAKISTAN",Kay 2
-http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7NQ2aC6.png" group-title="PAKISTAN",Khyber Middle East
-https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mrUAPtg.png" group-title="PAKISTAN",Khyber News
-http://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wKRCk7K.png" group-title="PAKISTAN",Lahore News (Opt-1)
-http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wKRCk7K.png" group-title="PAKISTAN",Lahore News (Opt-2)
-http://mlive.lahorenews.tv/lahorelive/lnews_1/chunklist_DVR.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cSLi73Y.png" group-title="PAKISTAN",Prime Canada TV (CA)
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6p6I1i0.png" group-title="PAKISTAN",PTV Home
-https://59aeddfe9f01c.streamlock.net/live/PTVhome/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w3aIlN4.png" group-title="PAKISTAN",PTV News
-http://67.231.248.131:1935/live/PTVnews/chunklist_w1281891626.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DKmn8IY.png" group-title="PAKISTAN",PTV World
-https://59aeddfe9f01c.streamlock.net/live/8090/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VarElBN.png" group-title="PAKISTAN",Roze News
-http://cdn.ebound.tv/tv/roze/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7hm6yd.png" group-title="PAKISTAN",Sahar Urdu (IR)
-https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/039vs9H.png" group-title="PAKISTAN",Shrrang TV
-http://dcunilive15-lh.akamaihd.net/i/dclive_1@27006/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wKvdqI1.png" group-title="PAKISTAN",Subrang TV (US) (Opt-1)
-http://cdn61.liveonlineservices.com/hls/subrang.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wKvdqI1.png" group-title="PAKISTAN",Subrang TV (US) (Opt-2)
-https://cdn20.liveonlineservices.com/hls/subrang.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="PAKISTAN",Tag TV (Opt-1)
-http://cdn11.live247stream.com/tag/tv/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="PAKISTAN",Tag TV (Opt-2)
-https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tl7iOAc.png" group-title="PAKISTAN",Toronto 360 TV (CA)
-http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w82VmmO.png" group-title="PAKISTAN",Urdu TV Toronto (CA)
-http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/gb.png" group-title="LABEL",~ UK TV ~
-http://www.lengua.com/anthems/nationalanthemukgreatbritain.mp3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gg0ghnn.png" group-title="UK",24/7 Cbeebies
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_hls/Cbeebies.m3u8
