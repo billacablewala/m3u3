@@ -1131,3 +1131,195 @@ https://tv4.chang55.com/live2/tv4ch47.stream/chunks.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/StarWorld.sa.png" group-title="MY/SG",Star World
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
+
+
+
+
+
+#EXTINF:0 tvg-country="PK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-mKFcmJXnj_DcIgJbBT_JYxtDc7Sl5AQRclXMnRKzTz4G5oMk&usqp=CAU" group-title="PAK TV",92 NEWS
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?HD
+
+
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="PAK TV",ARY NEWS
+https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.pinimg.com/236x/10/9d/2e/109d2e3f530f35858feab83dd3e54857.jpg" group-title="PAK TV",GULISTAN NEWS
+https://rtmp.smartstream.video/gulistannews/gulistannews/playlist.m3u8
+#EXTINF:0 tvg-country="PK" tvg-logo="https://lh3.googleusercontent.com/ay1-b8w8lgmeh4im1R5XTIiH2-7Q1sBS4yIAvfcF_AtJTE1YiljbvZO1YjWQKSb0dUP7" group-title="PAK TV",ARY NEWS
+http://95.211.211.168/live/arynews0012/playlist.m3u8
+#EXTINF:0 tvg-country="PK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREqhe5JgD_sAFUtoDHU9tKArmQ9yaKCJFEbq7r8MhHphcksRMf&usqp=CAU" group-title="PAK TV",A Plus
+http://stream.tapmad.com:1935/pitvlive2/aplus3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/c5c22a32014609.Y3JvcCw1NjYsNDQyLDI1Miw4.jpg" group-title="PAK TV",AAJ ENT
+https://stream.simpaisa.com/pitvlive2/aajentnew/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUZFAAFMy-g9YfrLvftKFsHnSDFpPvxzE81hNklz52cSwMdNoJ&usqp=CAU" group-title="PAK TV",ALQURAN LIVE
+https://stream.simpaisa.com/pitvlive2//makkah_360p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/1280px-2018_animal_planet_logo.svg_.png?r0EbXBEWkDBy904iN3h1Dff35te8jZRk&itok=3yKMpvZX" group-title="PAK TV",ANIMAL PLANET
+https://stream.simpaisa.com/pitvlive2/animal_360p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR934s0UAhddhw6DJL79KXethcukhNivRSjMWgbSP_k0fJVeBjg&usqp=CAU" group-title="PAK TV",ARY Family
+http://95.211.211.168/live/aryfamily0071/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/DwvztcjZNKQGVwPZlO9u0hgNorBY9rUWklsBTe0LC2C8CCNJmdTICYSK9Pwa22qDHgT0xbSIBb8FiXIoEsfamDYzdjz3RLaWvdGv3iRYrlWxdSTbPu-0s999cAGQXVaZlehzMJVDiGZKxGDGZnWZ9HtitBHLlPW3H4zQh2lFdnZNvf-r58gyP-QdNa_JqJdQfyUMuvOR0A3iEL0" group-title="PAK TV",Venus TV
+https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/cine5tv-hdtvler-3s0c.png" group-title="ASTRO TEST",CINE5 TV
+http://win1.yayin.com.tr/cine5/cine5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/cine5tv-hdtvler-3s0c.png" group-title="ASTRO TEST",7 WONDER
+https://shemaroomeseventv.shemaroo.com/sevenwonderstvhls/live.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBA1NSa7QaIYQXhk-0NIym8qXyFQRG8jxyNA&usqp=CAU" group-title="ASTRO TEST",PURE PUNJABI TV
+http://livestream.unlimitedcdn.com/agm-pp/pure-punjabi/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ASTRO TEST",RED HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ASTRO TEST",HBO SIGNATURE
+https://www.dropbox.com/s/dllbdpdkssknyjp/HBOSIGX.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ASTRO TEST",HBO
+https://www.dropbox.com/s/pv21nvv5ikap11w/HBOO.m3u8
+#EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/ceria.png" group-title="ASTRO TEST",Astro Ceria
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/83/Astro_Warna.jpg" group-title="ASTRO TEST", Astro Warna
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jtp8Fz6/astro-ria.jpg" group-title="ASTRO TEST", Astro Ria
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/71/Astro_Prima_2006.png" group-title="ASTRO TEST", Astro Prima
+http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-aJSSFyHzgIw/Wj9k2fbQOBI/AAAAAAAAJ2w/Mwi2CR1Lp1kc--gIFYkEUHEDMFzqYVeuQCLcBGAs/s1600/AEC.jpg" group-title="ASTRO TEST", Astro AEC
+http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
+#EXTINF:-1 tvg-ID="Nau.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png" group-title="ASTRO TEST",ASTRO NAURA
+https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Awani.jpg" group-title="ASTRO TEST", ASTRO AWANI
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:-1 tvg-name="304" tvg-id="HIM.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boo.png" group-title="ASTRO TEST",ASTRO BOO
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="ASTRO TEST",AWANI
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:-1 group-title="ASTRO TEST" tvg-logo="http://dusktill.masuk.web.id/img/assp.png", Astro Supersports 1
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#EXTINF:-1 group-title="ASTRO TEST" tvg-logo="https://static.epg.best/us/HBO.us.png", HBO ASIA HD
+http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TEST" tvg-logo="http://dusktill.masuk.web.id/img/assp3.png", Astro Supersports 3
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="ASTRO TEST",HBO HD
+https://gratismkctv.net/film/hbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9WJBzBH/foxmovies.png" group-title="ASTRO TEST", FOX MOVIES
+https://gratismkctv.net/film/foxmovies.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" group-title="ASTRO TEST", FOX ACTION MOVIES
+https://gratismkctv.net/film/foxactionmovies.m3u8
+#EXTINF:-1 tvg-id="APlusECrime360.us" tvg-name="A+E Crime 360" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/K1kJf1s.png" tvg-url="" group-title="ASTRO TEST",A+E Crime 360
+https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroAEC.my" tvg-name="Astro AEC" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_AEC_HD.jpg" tvg-url="" group-title="ASTRO TEST",Astro AEC
+http://185.180.221.194:8278/streams/d/Aec1511/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroAODHD311.my" tvg-name="Astro AOD HD 311" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" tvg-url="" group-title="ASTRO TEST",Astro AOD HD 311
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Astro Arena" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/801_300.png" tvg-url="" group-title="ASTRO TEST",Astro Arena
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1 tvg-id="Astro Awani" tvg-name="Astro Awani" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/dLzgBUj.png" tvg-url="" group-title="ASTRO TEST",Astro Awani
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="" tvg-logo="https://img.astroawani.com/template/awani.jpg" tvg-url="" group-title="ASTRO TEST",Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="" tvg-url="" group-title="ASTRO TEST",Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra" tvg-country="MY" tvg-language="" tvg-logo="" tvg-url="" group-title="ASTRO TEST",Astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" tvg-country="MY" tvg-language="" tvg-logo="" tvg-url="" group-title="ASTRO TEST",Astro Oasis
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima" tvg-country="MY" tvg-language="" tvg-logo="" tvg-url="" group-title="ASTRO TEST",Astro Prima
+http://live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8
+#EXTINF:-1 tvg-id="AstroQuanJiaHD.my" tvg-name="Astro Quan Jia HD" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/86/Astro%E5%85%A8%E4%BD%B3HD.png" tvg-url="" group-title="ASTRO TEST",Astro Quan Jia HD
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-country="MY" tvg-language="" tvg-logo="" tvg-url="" group-title="ASTRO TEST",Astro Ria
+http://50.7.161.82:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="Astro Shuang Xing" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/76/Astro%E9%9B%99%E6%98%9F.png/200px-Astro%E9%9B%99%E6%98%9F.png" tvg-url="" group-title="ASTRO TEST",Astro Shuang Xing
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" tvg-url="" group-title="ASTRO TEST",Astro SuperSport
+http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png" tvg-url="" group-title="ASTRO TEST",Astro SuperSport 2
+http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" tvg-url="" group-title="ASTRO TEST",Astro SuperSport 3
+http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" tvg-url="" group-title="ASTRO TEST",Astro SuperSport 4
+http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil" tvg-country="MY" tvg-language="" tvg-logo="" tvg-url="" group-title="ASTRO TEST",Astro Vaanavil
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
+#EXTINF:-1 tvg-id="AstroHuaLiTai.my" tvg-name="Astro åŽä¸½å°" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/94/Astro_%E8%8F%AF%E9%BA%97%E5%8F%B0.jpg" tvg-url="" group-title="ASTRO TEST",Astro åŽä¸½å° (Astro Wah Lai Toi)
+http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroXiaoTaiYang.my" tvg-name="Astro å°å¤ªé˜³" tvg-country="MY" tvg-language="" tvg-logo="http://astrokentico.s3.amazonaws.com/xuan/channels/325.png" tvg-url="" group-title="ASTRO TEST",Astro å°å¤ªé˜³ (Astro Xiao Tai Yang)
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroHuanXiTai.my" tvg-name="Astro æ¬¢å–œå°" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" tvg-url="" group-title="ASTRO TEST",
+#EXTINF:-1 tvg-id="AstroAEC.my" tvg-name="Astro AEC" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_AEC_HD.jpg" tvg-url="" group-title="ASTRO TEST",Astro AEC
+http://185.180.221.194:8278/streams/d/Aec1511/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroAODHD311.my" tvg-name="Astro AOD HD 311" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" tvg-url="" group-title="ASTRO TEST",Astro AOD HD 311
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Astro Arena" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/801_300.png" tvg-url="" group-title="ASTRO TEST",Astro Arena
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1 tvg-id="Astro Awani" tvg-name="Astro Awani" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/dLzgBUj.png" tvg-url="" group-title="ASTRO TEST",Astro Awani
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="" tvg-logo="https://img.astroawani.com/template/awani.jpg" tvg-url="" group-title="ASTRO TEST",Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="" tvg-url="" group-title="ASTRO TEST",Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra" tvg-country="MY" tvg-language="" tvg-logo="" tvg-url="" group-title="ASTRO TEST",Astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" tvg-country="MY" tvg-language="" tvg-logo="" tvg-url="" group-title="ASTRO TEST",Astro Oasis
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima" tvg-country="MY" tvg-language="" tvg-logo="" tvg-url="" group-title="ASTRO TEST",Astro Prima
+http://live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8
+#EXTINF:-1 tvg-id="AstroQuanJiaHD.my" tvg-name="Astro Quan Jia HD" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/86/Astro%E5%85%A8%E4%BD%B3HD.png" tvg-url="" group-title="ASTRO TEST",Astro Quan Jia HD
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-country="MY" tvg-language="" tvg-logo="" tvg-url="" group-title="ASTRO TEST",Astro Ria
+http://50.7.161.82:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="Astro Shuang Xing" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/76/Astro%E9%9B%99%E6%98%9F.png/200px-Astro%E9%9B%99%E6%98%9F.png" tvg-url="" group-title="ASTRO TEST",Astro Shuang Xing
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" tvg-url="" group-title="",Astro SuperSport
+http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png" tvg-url="" group-title="",Astro SuperSport 2
+http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" tvg-url="" group-title="",Astro SuperSport 3
+http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" tvg-url="" group-title="",Astro SuperSport 4
+http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil" tvg-country="MY" tvg-language="" tvg-logo="" tvg-url="" group-title="",Astro Vaanavil
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
+#EXTINF:-1 tvg-id="AstroHuaLiTai.my" tvg-name="Astro åŽä¸½å°" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/94/Astro_%E8%8F%AF%E9%BA%97%E5%8F%B0.jpg" tvg-url="" group-title="",Astro åŽä¸½å° (Astro Wah Lai Toi)
+http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroXiaoTaiYang.my" tvg-name="Astro å°å¤ªé˜³" tvg-country="MY" tvg-language="" tvg-logo="http://astrokentico.s3.amazonaws.com/xuan/channels/325.png" tvg-url="" group-title="",Astro å°å¤ªé˜³ (Astro Xiao Tai Yang)
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroHuanXiTai.my" tvg-name="Astro æ¬¢å–œå°" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" tvg-url="" group-title="",Astro æ¬¢å–œå° (Astro Hua Hee Dai)
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+ (Astro Hua Hee Dai)
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1052589325395906561/cq1kZ-A1.jpg" group-title="UK TV",ITV
+http://51.52.156.22:8888/http/001
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1052589325395906561/cq1kZ-A1.jpg" group-title="UK TV",ITV
+http://51.52.156.22:8888/http/002
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1052589325395906561/cq1kZ-A1.jpg" group-title="UK TV",ITV
+http://51.52.156.22:8888/http/003
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1052589325395906561/cq1kZ-A1.jpg" group-title="UK TV",ITV
+http://51.52.156.22:8888/http/004
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1052589325395906561/cq1kZ-A1.jpg" group-title="UK TV",ITV
+http://51.52.156.22:8888/http/005
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1052589325395906561/cq1kZ-A1.jpg" group-title="UK TV",ITV
+http://51.52.156.22:8888/http/006
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1052589325395906561/cq1kZ-A1.jpg" group-title="UK TV",ITV
+http://51.52.156.22:8888/http/007
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1052589325395906561/cq1kZ-A1.jpg" group-title="UK TV",ITV
+http://51.52.156.22:8888/http/008
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1052589325395906561/cq1kZ-A1.jpg" group-title="UK TV",ITV
+http://51.52.156.22:8888/http/009
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1052589325395906561/cq1kZ-A1.jpg" group-title="UK TV",ITV
+http://51.52.156.22:8888/http/010
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1052589325395906561/cq1kZ-A1.jpg" group-title="UK TV",ITV
+http://51.52.156.22:8888/http/011
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1052589325395906561/cq1kZ-A1.jpg" group-title="UK TV",ITV
+http://51.52.156.22:8888/http/012
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1052589325395906561/cq1kZ-A1.jpg" group-title="UK TV",ITV
+http://51.52.156.22:8888/http/013
+
